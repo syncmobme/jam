@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "778582021466",
+    "firebase_url": "https://jam-b435b.firebaseio.com",
+    "project_id": "jam-b435b",
+    "storage_bucket": "jam-b435b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778582021466:android:54ea6c8b66bdf5dffd8f63",
+        "android_client_info": {
+          "package_name": "com.jamawm.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778582021466-0o3a3kfd3uth28nda9lr9b4efv5jush8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvauJlbyNJPjnt9TAxFBbcyTH93z32GfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778582021466-0o3a3kfd3uth28nda9lr9b4efv5jush8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778582021466-am0qqq0ttg8l61np57mhrfft1tp1g8ct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamawm.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
